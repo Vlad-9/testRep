@@ -1,0 +1,14 @@
+{
+    "tilejson": "2.1.0",
+    "scheme": "xyz",
+    "name": "urbeo basemap",
+    "format": "pbf",
+    "bounds": "18.80894,42.22979,23.01035,46.19207",
+    "minzoom": 9,
+    "maxzoom": 14,
+    "attribution": "<a href=\"https://www.openstreetmap.org/copyright\" target=\"_blank\">&copy; OpenStreetMap contributors</a>",
+    "version": "1.0.0",
+    "tiles": [
+      "https://tiles.urbeo.me/origin/{z}/{x}/{y}.pbf"
+    ]
+}
