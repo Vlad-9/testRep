@@ -3,7 +3,12 @@
     "scheme": "xyz",
     "name": "urbeo basemap",
     "format": "pbf",
-    "bounds": "18.80894,42.22979,23.01035,46.19207",
+     "bounds": [
+    -11.91,
+    49.3,
+    3.61,
+    61.61
+  ],
     "minzoom": 9,
     "maxzoom": 14,
     "attribution": "<a href=\"https://www.openstreetmap.org/copyright\" target=\"_blank\">&copy; OpenStreetMap contributors</a>",
